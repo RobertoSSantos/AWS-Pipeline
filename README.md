@@ -1,4 +1,4 @@
-# **LambdaDeployer: Deploy Automatizado de Aplicação Python na AWS**
+# **AWS-Pipeline: Deploy Automatizado de Aplicação Python na AWS**
 
 Automatize o deploy de aplicações Flask em ambientes serverless com um simples script Bash. Este projeto utiliza AWS Lambda, AWS CLI e outros serviços AWS para criar uma pipeline eficiente e fácil de usar.
 
